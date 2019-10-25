@@ -1,0 +1,6 @@
+echo "# lista-2" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git remote add origem https://github.com/Edson901/lista-2.git
+ git push -u mestre de origem
